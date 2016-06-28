@@ -1,0 +1,21 @@
+body{
+  background-color: Seashell;
+  background-size: cover;
+  font-family: Palatino Linotype, Arial;
+  margin-left: 70px;
+}
+
+h1{
+  color: orange;
+}
+
+.pic{
+  border-radius: 50%;
+  width: auto;
+  max-width: 250px;
+  height: auto;
+  max-height: 250px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
